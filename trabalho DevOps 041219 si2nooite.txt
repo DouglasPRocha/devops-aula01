@@ -7,31 +7,32 @@ Layssa Souza RA: 1801950
 Paulo Miguel RA: 1802175
 Rony Rodrigues RA: 1801663
 Vitor Ferraz Machado RA:1800729
+Douglas Rocha RA:1800257
 
-FUN«¬O:
+FUN√á√ÇO:
 
-Analise: Vitor Ferraz.
+Analise: Vitor Ferraz/Douglas Rocha
 Design: Paulo Miguel.
-CodificaÁ‚o: Layssa.
+Codifica√ß√¢o: Layssa.
 Teste: Rony Rodrigues.
-OperaÁ‚o: Alex Jones.
+Opera√ß√¢o: Alex Jones.
 
 
 resquisitos.txt
-Para a parte da an·lise, ser· necess·rio coletar informaÁıes sobre os roteiros de turismo, as empresas que os efetuam e o estudo sobre o que ser· necess·rio para o desenvolvimento do projeto.
+Para a parte da an√°lise, ser√° necess√°rio coletar informa√ß√µes sobre os roteiros de turismo, as empresas que os efetuam e o estudo sobre o que ser√° necess√°rio para o desenvolvimento do projeto.
 
 
 design.txt
 
-Na parte de design, teremos duas linguagens, uma sendo para o aplicativo e outra para api. E teremos um banco de dados prÛprio.
+Na parte de design, teremos duas linguagens, uma sendo para o aplicativo e outra para api. E teremos um banco de dados pr√≥prio.
 
-codificaÁ‚o.
+codifica√ß√¢o.
 
 Usaremos linguagem SQL na parte do banco de dados, usaremos python para desenvolver o aplicativo.
 
 teste.
 
-Teremos que contenplar cen·rios simples, como por exemplo, o passo a passo do fechamento de um pedido onde com os valores, infornaÁıes, desigmer e facilidade para o usuario entender a plataforma. 
+Teremos que contemplar cen√°rios simples, como por exemplo, o passo a passo do fechamento de um pedido onde com os valores, inforna√ß√µes, desigmer e facilidade para o usuario entender a plataforma. 
 
 
 
