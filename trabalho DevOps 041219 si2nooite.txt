@@ -1,0 +1,38 @@
+PRODUTO/TEMA: Software de e-comerce para roteiros de turismo.
+
+GRUPO:
+
+Alex Jones RA: 1801907
+Layssa Souza RA: 1801950
+Paulo Miguel RA: 1802175
+Rony Rodrigues RA: 1801663
+Vitor Ferraz Machado RA:1800729
+
+FUNÇÂO:
+
+Analise: Vitor Ferraz.
+Design: Paulo Miguel.
+Codificaçâo: Layssa.
+Teste: Rony Rodrigues.
+Operaçâo: Alex Jones.
+
+
+resquisitos.txt
+Para a parte da análise, será necessário coletar informações sobre os roteiros de turismo, as empresas que os efetuam e o estudo sobre o que será necessário para o desenvolvimento do projeto.
+
+
+design.txt
+
+Na parte de design, teremos duas linguagens, uma sendo para o aplicativo e outra para api. E teremos um banco de dados próprio.
+
+codificaçâo.
+
+Usaremos linguagem SQL na parte do banco de dados, usaremos python para desenvolver o aplicativo.
+
+teste.
+
+Teremos que contenplar cenários simples, como por exemplo, o passo a passo do fechamento de um pedido onde com os valores, infornações, desigmer e facilidade para o usuario entender a plataforma. 
+
+
+
+
